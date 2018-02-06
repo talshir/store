@@ -51,4 +51,3 @@ Store.loadProducts = function(category){
 	},"json");
 };
 Store.start();
-
